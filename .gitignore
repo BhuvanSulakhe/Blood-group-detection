@@ -1,0 +1,22 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# Large model files
+Model.pth
+fingerprint_blood_group_model.pkl
+
+
+
+# Database file
+users
+
+# VS Code settings
+.vscode/
