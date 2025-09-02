@@ -10,7 +10,6 @@ __pycache__/
 
 
 # Large model files
-Model.pth
 fingerprint_blood_group_model.pkl
 
 
